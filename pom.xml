@@ -21,7 +21,10 @@
     </modules>
 
     <name>mirai4j</name>
-    <description>mirai-http-api 的 Java/Kotlin 封装，便于轻量小型外部应用的链接与调用。</description>
+    <description>
+        mirai-api-http 的 Java/Kotlin 封装，
+        便于轻量小型外部应用的链接与调用。
+    </description>
     <url>https://github.com/CarmJos/mirai4j</url>
 
     <developers>

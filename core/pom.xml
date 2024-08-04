@@ -17,7 +17,6 @@
     <artifactId>mirai4j-core</artifactId>
     <packaging>jar</packaging>
 
-
     <dependencies>
 
         <dependency>
