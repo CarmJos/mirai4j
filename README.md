@@ -1,7 +1,11 @@
 
-已放弃，改为使用 [OneBot](https://onebot.dev/) 协议。
-已放弃，改为使用 [OneBot](https://onebot.dev/) 协议。
-已放弃，改为使用 [OneBot](https://onebot.dev/) 协议。
+**已放弃，改为使用 [OneBot](https://onebot.dev/) 协议。**
+
+**已放弃，改为使用 [OneBot](https://onebot.dev/) 协议。**
+
+**已放弃，改为使用 [OneBot](https://onebot.dev/) 协议。**
+
+___
 
 ```text
          _          _   ____  _ 
