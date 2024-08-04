@@ -5,7 +5,13 @@
 /_/_/_/_/_/  \_,_/_/   /_/_/ /  
                         |___/   
 ```
-# mirai4j / _mirai-api-http for java_
+# mirai4j (_mirai-api-http for java_)
+[![version](https://img.shields.io/github/v/release/CarmJos/mirai4j)](https://github.com/CarmJos/mirai4j/releases)
+[![License](https://img.shields.io/github/license/CarmJos/mirai4j)](https://opensource.org/licenses/MIT)
+[![workflow](https://github.com/CarmJos/mirai4j/actions/workflows/maven.yml/badge.svg?branch=master)](https://github.com/CarmJos/mirai4j/actions/workflows/maven.yml)
+[![CodeFactor](https://www.codefactor.io/repository/github/carmjos/mirai4j/badge)](https://www.codefactor.io/repository/github/carmjos/mirai4j)
+![CodeSize](https://img.shields.io/github/languages/code-size/CarmJos/mirai4j)
+![](https://visitor-badge.glitch.me/badge?page_id=mirai4j.readme)
 
 [mirai-api-http](https://github.com/project-mirai/mirai-api-http) 的 Java/Kotlin 封装，便于轻量小型外部应用的链接与调用。
 
